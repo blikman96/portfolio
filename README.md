@@ -97,7 +97,7 @@
 
         ● Developed and maintained backend-for-frontend server (BFF) using Node.js, Nest.js, and TypeScript
         ● Developed and maintained HR Portal and HR Portal Admin Panel
-        ● Developed pages of [the catalog](https://goldapple.by/azija) with filters
+        ● Developed pages of the catalog with filters (https://goldapple.by/azija)
         ● Developed components of the design system
         ● Upgraded projects from Vue 2 to Vue 3
         ● Covered the code with unit tests
