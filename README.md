@@ -22,28 +22,26 @@
 
         ● With this project I promoted Gulp to the studio, which doubled the speed of development in the future.
 
-        Technologies: HTML, SASS, JS, PHP, jQuery, MODX Revolution
+        Technologies: HTML · SASS · JS · PHP · jQuery · MODX Revolution
     </details>
 
 2. [Ros Instrument, 2018](https://ros-instrument.ru/)
     <details>
         <summary>details</summary>
 
-        Technologies: HTML, SASS, JS, PHP, jQuery, MODX Revolution
+        Technologies: HTML · SASS · JS · PHP · jQuery · MODX Revolution
     </details>
 3. [Intermold, 2019](http://intermold.ru/)
     <details>
         <summary>details</summary>
 
-        Technologies: HTML, SASS, JS, PHP, jQuery, MODX Revolution
+        Technologies: HTML · SASS · JS · PHP · jQuery · MODX Revolution
     </details>
 4. [Сanwant, 2019 (archived)](https://canwant.com/)
     <details>
         <summary>details</summary>
 
-        Improvements for transfer of the project to customer.
-
-        ● Completed project whose technology stack didn't match the studio's stack (Django, Python, Vue)
+        ● Delivered and released the project whose technology stack didn't match the studio's stack (Django, Python, Vue)
 
         Technologies: HTML, LESS, JS, Python, Vue, Django
     </details>
@@ -51,7 +49,7 @@
     <details>
         <summary>details</summary>
 
-        Technologies: HTML, SASS, JS, PHP, jQuery, MODX Revolution
+        Technologies: HTML · SASS · JS · PHP · jQuery · MODX Revolution
     </details>
 6. [Posteks, 2019-present ⭐](https://posteks.ru/)
     <details>
@@ -64,7 +62,7 @@
         ● Improved UI and UX
         ● Started successful marketing campaign in Yandex.Direct
 
-        Technologies: HTML, SASS, JS, PHP, jQuery, MODX Revolution
+        Technologies: HTML · SASS · JS · PHP · jQuery · MODX Revolution
     </details>
 7. Scrollo, 2020 (archived)
     <details>
@@ -72,17 +70,17 @@
 
         A couple small tasks from Upwork.
 
-        ● Developed module of comments with pictures
+        ● Developed module of comments with uploading pictures
         ● Developed page "About"
         ● Improved UI and UX
 
-        Technologies: HTML, SCSS, JS, Python, Vue, Nuxt, Django, DRF, Minio
+        Technologies: HTML · SCSS · JS · Python · Vue · Nuxt · Django · DRF · Minio
     </details>
 8. [RMB Games, 2020](https://www.rmbgames.com/)
     <details>
         <summary>details</summary>
 
-        Technologies: HTML, SASS, JS, PHP, jQuery, WordPress, Unyson, Gulp
+        Technologies: HTML · SASS · JS · PHP · jQuery · WordPress · Unyson · Gulp
     </details>
 9. [BBTask, 2020 (archived)](https://bbtask.ru/)
     <details>
@@ -91,16 +89,18 @@
         ● Delivered and released MVP
         ● Developed chat using websocket
 
-        Technologies: HTML, SCSS, JS, Go, Vue, Gin, Gorilla WebSocket 
+        Technologies: HTML · SCSS · JS · Go · Vue · Gin · Gorilla WebSocket 
     </details>
-10. [Gold Apple, 2020-present (not released yet) ⭐](https://goldapple.ru/)
+10. [Gold Apple, 2020-present ⭐](https://goldapple.by/)
     <details>
         <summary>details</summary>
 
-        Development of a large online store in a team using Agile methodologies.
+        ● Developed and maintained backend-for-frontend server (BFF) using Node.js, Nest.js, and TypeScript
+        ● Developed and maintained HR Portal and HR Portal Admin Panel
+        ● Developed pages of [the catalog](https://goldapple.by/azija) with filters
+        ● Developed components of the design system
+        ● Upgraded projects from Vue 2 to Vue 3
+        ● Covered the code with unit tests
 
-        ● Maintained backend-for-frontend server
-        ● Maintained catalog page with filters
-
-        Technologies: HTML, SCSS, JS, Vue, Nuxt, Node.js, Nest, Jest 
+        Technologies:  JavaScript · CSS · HTML · Front-End Development · Web Development · Web Content Accessibility Guidelines (WCAG) · I18n · Vue.js · Vuex · Pinia · Nuxt.js · TypeScript · HTML5 · Scrum · Agile · E-commerce · Storybook · SCSS · Git · Gitlab · Node.js · Express.js · NestJS · Jest
     </details>
