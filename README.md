@@ -51,20 +51,7 @@
 
         Technologies: HTML · SASS · JS · PHP · jQuery · MODX Revolution
     </details>
-6. [Posteks, 2019-present ⭐](https://posteks.ru/)
-    <details>
-        <summary>details</summary>
-
-        Develop and maintain the site as self-employed for my friends.
-
-        ● Improved website organic traffic three times
-        ● Increased Google Page Speed score from 30 to 90
-        ● Improved UI and UX
-        ● Started successful marketing campaign in Yandex.Direct
-
-        Technologies: HTML · SASS · JS · PHP · jQuery · MODX Revolution
-    </details>
-7. Scrollo, 2020 (archived)
+6. Scrollo, 2020 (archived)
     <details>
         <summary>details</summary>
 
@@ -76,13 +63,13 @@
 
         Technologies: HTML · SCSS · JS · Python · Vue · Nuxt · Django · DRF · Minio
     </details>
-8. [RMB Games, 2020](https://www.rmbgames.com/)
+7. [RMB Games, 2020](https://www.rmbgames.com/)
     <details>
         <summary>details</summary>
 
         Technologies: HTML · SASS · JS · PHP · jQuery · WordPress · Unyson · Gulp
     </details>
-9. [BBTask, 2020 (archived)](https://bbtask.ru/)
+8. [BBTask, 2020 (archived)](https://bbtask.ru/)
     <details>
         <summary>details</summary>
 
@@ -91,7 +78,7 @@
 
         Technologies: HTML · SCSS · JS · Go · Vue · Gin · Gorilla WebSocket 
     </details>
-10. [Gold Apple, 2020-present ⭐](https://goldapple.by/)
+9. [Gold Apple, 2020-present ⭐](https://goldapple.by/)
     <details>
         <summary>details</summary>
 
