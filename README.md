@@ -37,7 +37,7 @@
 
         Technologies: HTML · SASS · JS · PHP · jQuery · MODX Revolution
     </details>
-4. [Сanwant, 2019 (archived)](https://canwant.com/)
+4. [Сanwant, 2019 (dead startup)](https://canwant.com/)
     <details>
         <summary>details</summary>
 
@@ -51,7 +51,7 @@
 
         Technologies: HTML · SASS · JS · PHP · jQuery · MODX Revolution
     </details>
-6. Scrollo, 2020 (archived)
+6. Scrollo, 2020 (dead startup)
     <details>
         <summary>details</summary>
 
@@ -69,7 +69,7 @@
 
         Technologies: HTML · SASS · JS · PHP · jQuery · WordPress · Unyson · Gulp
     </details>
-8. [BBTask, 2020 (archived)](https://bbtask.ru/)
+8. [BBTask, 2020 (dead startup)](https://bbtask.ru/)
     <details>
         <summary>details</summary>
 
