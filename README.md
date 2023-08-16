@@ -55,9 +55,9 @@
     <details>
         <summary>details</summary>
 
-        A couple small tasks from Upwork.
+        A couple of small tasks from Upwork.
 
-        ● Developed module of comments with uploading pictures
+        ● Developed a module of comments with uploading pictures
         ● Developed page "About"
         ● Improved UI and UX
 
@@ -74,7 +74,7 @@
         <summary>details</summary>
 
         ● Delivered and released MVP
-        ● Developed chat using websocket
+        ● Developed chat using WebSocket
 
         Technologies: HTML · SCSS · JS · Go · Vue · Gin · Gorilla WebSocket 
     </details>
@@ -83,7 +83,8 @@
         <summary>details</summary>
 
         ● Developed and maintained backend-for-frontend server (BFF) using Node.js, Nest.js, and TypeScript
-        ● Developed and maintained HR Portal and HR Portal Admin Panel
+        ● Developed and maintained HR Portal (https://job.goldapple.ru/) and HR Portal Admin Panel
+        ● Developed gift cards pages (https://goldapple.ru/cards)
         ● Developed pages of the catalog with filters (https://goldapple.by/azija)
         ● Developed components of the design system
         ● Upgraded projects from Vue 2 to Vue 3
