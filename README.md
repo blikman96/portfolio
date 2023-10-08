@@ -18,7 +18,7 @@
     <details>
         <summary>details</summary>
 
-        My first commercial project made for Burusov's Studio.
+        My first commercial project which I made for Burusov's Studio.
 
         ● With this project I promoted Gulp to the studio, which doubled the speed of development in the future.
 
@@ -57,7 +57,7 @@
 
         A couple of small tasks from Upwork.
 
-        ● Developed a module of comments with uploading pictures
+        ● Developed a module of comments with the pictures uploader
         ● Developed page "About"
         ● Improved UI and UX
 
@@ -78,17 +78,25 @@
 
         Technologies: HTML · SCSS · JS · Go · Vue · Gin · Gorilla WebSocket 
     </details>
-9. [Gold Apple, 2020-present ⭐](https://goldapple.by/)
+9. [Gold Apple, 2020-present ⭐](https://goldapple.ru/)
     <details>
         <summary>details</summary>
 
-        ● Developed and maintained backend-for-frontend server (BFF) using Node.js, Nest.js, and TypeScript
-        ● Developed and maintained HR Portal (https://job.goldapple.ru/) and HR Portal Admin Panel
-        ● Developed gift cards pages (https://goldapple.ru/cards)
-        ● Developed pages of the catalog with filters (https://goldapple.by/azija)
-        ● Developed components of the design system
-        ● Upgraded projects from Vue 2 to Vue 3
-        ● Covered the code with unit tests
+        ● Led the frontend team of 4 contractors: code review, task management, code guidelines, etc.
+        ● Communicated with managers, analysts, and designers
+        ● Designed API contracts with the backend team and the analyst to reduce alterations
+        ● Designed the Nuxt 3 boilerplate for future projects to save a couple of weeks for each new project
+        ● Integrated i18n into projects allowed the company to open 3 new markets
+        ● Maintained and developed backend-for-frontend server to reduce conflicts with the backend
+        ● Maintained and developed e-commerce, b2b, and HR solutions
+        ● Developed components of the internal UI library to increase reusability
+        ● Upgraded projects from Vue 2 to Vue 3 to increase performance by 50%
+        ● Covered the code with unit tests to reduce bugs
+
+        Links:
+        ● HR portal - https://job.goldapple.ru/
+        ● The catalog with filters - https://goldapple.ru/makijazh
+        ● The gift cards page - https://goldapple.ru/cards
 
         Technologies:  JavaScript · CSS · HTML · Front-End Development · Web Development · Web Content Accessibility Guidelines (WCAG) · I18n · Vue.js · Vuex · Pinia · Nuxt.js · TypeScript · HTML5 · Scrum · Agile · E-commerce · Storybook · SCSS · Git · Gitlab · Node.js · Express.js · NestJS · Jest
     </details>
